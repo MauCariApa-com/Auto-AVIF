@@ -25,7 +25,7 @@
 - Provides options for compression speed and image quality.
 - Option to delete original images after conversion.
 - Enhanced responsive images support.
-- Allows for image placeholders based on the specified color.
+- ~~Allows for image placeholders based on the specified color.~~ (temporary disabled from code)
 
 ## Changelog
 
