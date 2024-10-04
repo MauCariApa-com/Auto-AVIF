@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Convert Images to AVIF 1.0.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-09-19 08:08+0700\n"
+"Last-Translator: Your Name <your-email@example.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: admin_menu.php:10
+msgid "AVIF Settings"
+msgstr "AVIF Settings"
+
+#: options_page.php:15
+msgid "Auto Convert Images to AVIF Logo"
+msgstr "Auto Convert Images to AVIF Logo"
+
+#: options_page.php:17
+msgid "AVIF Conversion Settings"
+msgstr "AVIF Conversion Settings"
+
+#: settings_page.php:28
+msgid "System Info"
+msgstr "System Info"
+
+#: settings_page.php:30
+msgid "About"
+msgstr "About"
+
+#: settings_page.php:32
+msgid "Changelog"
+msgstr "Changelog"
+
+#: settings_page.php:34
+msgid "Donation"
+msgstr "Donation"
+
+#: register_settings.php:8
+msgid "Compression Speed"
+msgstr "Compression Speed"
+
+#: register_settings.php:10
+msgid "Image Quality"
+msgstr "Image Quality"
+
+#: register_settings.php:12
+msgid "Delete Original Images"
+msgstr "Delete Original Images"
+
+#: register_settings.php:14
+msgid "Enhanced Responsive Images"
+msgstr "Enhanced Responsive Images"
+
+#: register_settings.php:16
+msgid "Enable Image Placeholder"
+msgstr "Enable Image Placeholder"
+
+#: register_settings.php:18
+msgid "Placeholder Color"
+msgstr "Placeholder Color"
+
+#: system_info.php:5
+msgid "Plugin Version"
+msgstr "Plugin Version"
+
+#: system_info.php:7
+msgid "Web Server"
+msgstr "Web Server"
+
+#: system_info.php:9
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: system_info.php:11
+msgid "PHP-FPM"
+msgstr "PHP-FPM"
+
+#: system_info.php:13
+msgid "AVIF Image Support"
+msgstr "AVIF Image Support"
+
+#: system_info.php:15
+msgid "Imagick Extension"
+msgstr "Imagick Extension"
