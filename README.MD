@@ -1,7 +1,8 @@
 # Auto Convert Images to AVIF
 
 Automatically converts JPG and PNG images to AVIF on upload, serves AVIF versions where available, replaces image URLs with AVIF in WordPress posts, and removes original JPG or PNG images after conversion. Includes options for managing thumbnails, viewing progress, enhanced responsive images, and image placeholders.  
-Shared hosting user please be careful, as background conversion may increase your I/O and RAM usage. We recommended VPS in order to use this plugin
+
+Shared hosting user please be careful, as background conversion may increase your I/O and RAM usage. We recommended VPS in order to use this plugin. High usage of I/O and RAM may increase your hosting bill.
 
 ## Plugin Info
 **Author:** MauCariApa.com  
