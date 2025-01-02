@@ -1,15 +1,15 @@
 # Auto Convert Images to AVIF
 
-**Plugin Name:** Auto Convert Images to AVIF  
-**Plugin URI:** [MauCariApa.com](https://maucariapa.com)  
-**Description:** Automatically converts JPG and PNG images to AVIF on upload, serves AVIF versions where available, replaces image URLs with AVIF in WordPress posts, and removes original JPG or PNG images after conversion. Includes options for managing thumbnails, viewing progress, enhanced responsive images, and image placeholders.  
-**Version:** 1.0.0  
+Automatically converts JPG and PNG images to AVIF on upload, serves AVIF versions where available, replaces image URLs with AVIF in WordPress posts, and removes original JPG or PNG images after conversion. Includes options for managing thumbnails, viewing progress, enhanced responsive images, and image placeholders.  
+
+## Plugin Info
 **Author:** MauCariApa.com  
 **Author URI:** [MauCariApa.com](https://maucariapa.com)  
 **License:** GPLv2  
 **Requires at least:** 5.6  
 **Tested up to:** 6.6  
 **Requires PHP:** 8.2  
+**Version:** 1.0.0  
 
 ## Installation
 
@@ -39,3 +39,7 @@ If you find this plugin useful and want to support its development, consider mak
 ## License
 
 This plugin is licensed under the GPLv2 license. See [LICENSE](LICENSE) for more details.
+
+## Notes
+
+Shared hosting user please be careful, as background conversion may increase your I/O and RAM usage. We recommended VPS in order to use this plugin
